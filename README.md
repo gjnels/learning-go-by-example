@@ -7,3 +7,4 @@ There is a branch for each part in the series, not including part 1 for installi
 ## Series Parts
 
 1. [Introduction & Installation](https://dev.to/aurelievache/learning-go-by-examples-introduction-448n)
+2. [Create an HTTP REST API Server in Go](https://dev.to/aurelievache/learning-go-by-examples-part-2-create-an-http-rest-api-server-in-go-1cdm)
